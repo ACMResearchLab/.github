@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## ACM Research Lab
-This is the research lab github organization for UCSC. Here we will host repositories of research projects developed over the quarter and later on the year. 
+This is the github organization for our UCSC ACM Research Lab, founded in spring 2023. Over the course of the quarter, students learn research compilation, how to read technical AI papers, literature review, and writing papers/proposals. Afterward, projects are chosen from proposals to be further developed by multiple groups, advised by leads and professors. Here we will host repositories of research projects developed over all iterations of the lab.  
 
 ## Spring 2023 
 **Leads:** Arnav Kartikeya, Coen Adler  
